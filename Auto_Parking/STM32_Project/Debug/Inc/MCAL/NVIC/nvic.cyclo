@@ -1,0 +1,5 @@
+nvic.c:11:6:nvic_enableInterrupt	4
+nvic.c:27:6:nvic_disableInterrupt	4
+nvic.c:43:6:nvic_setPendingFlag	4
+nvic.c:59:6:nvic_clearPendingFlag	4
+nvic.c:75:9:nvic_readActiveFlag	4

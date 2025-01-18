@@ -1,0 +1,2 @@
+C2_VCLE_CNTRL.c:70:6:C2VCONTROL_voidInit	8	static
+C2_VCLE_CNTRL.c:100:6:C2VCONTROL_voidChangeDirection	16	static

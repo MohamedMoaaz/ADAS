@@ -1,0 +1,3 @@
+C4_SLOT_FIND.c:79:6:C4SLTFIND_voidInit	4	static
+C4_SLOT_FIND.c:87:9:C4SLTFIND_voidSearchingforSlotFull	24	static
+C4_SLOT_FIND.c:218:9:C4SLTFIND_voidSearchingforSlot	24	static

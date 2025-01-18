@@ -1,0 +1,11 @@
+USART_program.c:71:6:USART_voidInit	3
+USART_program.c:119:6:USART_voidSendDataSynch	7
+USART_program.c:138:6:USART_voidSendDataAsynch	3
+USART_program.c:154:6:USART_voidReceiveDataSynch	5
+USART_program.c:175:6:USART_voidReceiveDataAsynch	1
+USART_program.c:181:6:USART_voidBuadRateCalc	2
+USART_program.c:203:6:USART_voidSetPins	5
+USART_program.c:246:6:USART_voidGetDMA_PeripheralAddress	2
+USART_program.c:259:6:USART_voidSendStringWithFixedSizeSynch	2
+USART_program.c:267:6:USART_voidSendStringWithDelimiterSynch	2
+USART_program.c:278:6:USART1_EXTI25_IRQHandler	1

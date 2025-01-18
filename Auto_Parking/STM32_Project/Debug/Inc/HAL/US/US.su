@@ -1,0 +1,4 @@
+US.c:51:13:ICU_TIM2_EdgeCallback	32	static
+US.c:111:6:US_voidInit	24	static
+US.c:167:12:US_voidGetDistanceSynch	56	static,ignoring_inline_asm
+US.c:222:6:US_voidGetDistanceAsynch	24	static

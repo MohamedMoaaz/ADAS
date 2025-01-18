@@ -1,0 +1,3 @@
+DCMOTOR.c:62:6:DCMOTOR_voidInit	4
+DCMOTOR.c:114:6:DCMOTOR_voidSetDirection	6
+DCMOTOR.c:147:6:DCMOTOR_voidSetSpeed	3
